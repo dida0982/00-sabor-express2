@@ -7,6 +7,19 @@ print(response)
 
 if response.status_code == 200:
     data_json = response.json()
-    print(data_json)
+    data_restaurant ={}
+    for item in data_json:
+        name_restaurant = item['Company']
+        if name_restaurant not in data_restaurant:
+            data_restaurant[name_restaurant] = []
+        
+        data_restaurant[name_restaurant].append({
+            'item': item['Item'],
+            'price': item['price'],
+            'description': item['description'],
+        })
+        
 else:
-    print(f"Failed to retrieve data. Status code: {response.status_code}")
+    print('Error:', response.status_code)
+    
+print(data_restaurant['McDonald’s'])
