@@ -1,5 +1,11 @@
 # 🍽️ API de Restaurantes
 
+<img width="760" height="595" alt="Screenshot 2026-07-13 203201" src="https://github.com/user-attachments/assets/1e258ebe-1923-4097-b316-f5bbe2877bf7" />
+
+
+<img width="1919" height="1034" alt="Screenshot 2026-07-13 202958" src="https://github.com/user-attachments/assets/a056cce8-98dd-4313-9c19-933d51de9c47" />
+
+
 API REST desenvolvida com **FastAPI** para consulta de dados de restaurantes e seus respectivos cardápios, consumindo uma base de dados externa e disponibilizando endpoints organizados para consulta geral ou filtrada por restaurante.
 
 ## ✅ Funcionalidades
@@ -135,16 +141,17 @@ Desenvolvedor Full Stack | Brasília, DF - Brasil
 
 **Certificado Alura**
 
-<img width="737" height="523" alt="Screenshot 2026-07-08 173923" src="https://github.com/user-attachments/assets/1e53c018-7bc3-43f4-9a49-b5e92a27221e" />
+<img width="760" height="595" alt="Screenshot 2026-07-13 203201" src="https://github.com/user-attachments/assets/bb6828f6-769b-4d3c-9423-3c11b6957830" />
 
 **Plataforma  Alura**
 
-<img width="1900" height="905" alt="Screenshot 2026-07-08 174025" src="https://github.com/user-attachments/assets/27ef0b62-763b-4049-ae09-7ee205f80bcd" />
+<img width="1898" height="907" alt="Screenshot 2026-07-13 202720" src="https://github.com/user-attachments/assets/ba50ec0e-3e6b-4c23-b5fa-de637c08a371" />
 
 **Vídeo Aula**
 
-<img width="1904" height="907" alt="Screenshot 2026-07-08 174132" src="https://github.com/user-attachments/assets/861d42bf-642a-4f2c-b1d2-0c8312eb4120" />
+<img width="1900" height="894" alt="Screenshot 2026-07-13 202814" src="https://github.com/user-attachments/assets/093bf7da-f241-48d7-beee-2a7dfdba7d43" />
 
 **Projeto**
 
-<img width="1919" height="1034" alt="Screenshot 2026-07-08 174233" src="https://github.com/user-attachments/assets/1400c3ce-1692-4196-a159-f9779a57a2cf" />
+<img width="1919" height="1034" alt="Screenshot 2026-07-13 202958" src="https://github.com/user-attachments/assets/91b3de30-1f41-496d-b176-fa778117a45e" />
+
